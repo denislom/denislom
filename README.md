@@ -12,8 +12,18 @@
     <tbody>
         >
       <tr>
+            <td>Libft</td>
+            <td>&#9989;</td>
+            <td>6.2.2023</td>
+      </tr>
+      <tr>
             <td>ft_printf</td>
             <td>&#9989;</td>
             <td>5.3.2023</td>
-        </tr>
+      </tr>
+      <tr>
+            <td>Born2beroot</td>
+            <td>&#9989;</td>
+            <td>9.4.2023</td>
+      </tr>
 </table>
